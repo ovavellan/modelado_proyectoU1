@@ -1,0 +1,10 @@
+.btn-go-home-container {
+    width: 33.33%;
+    margin: 20px auto;
+}
+
+.btn-go-home {
+    width: 100%;
+    padding: 10px 20px;
+    font-size: 18px;
+}
