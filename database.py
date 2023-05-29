@@ -1,8 +1,8 @@
 from pymongo import MongoClient
 
-host = 'localhost'  # Cambia esto al nombre de host de tu base de datos MongoDB
-port = 27017  # Cambia esto al número de puerto de tu base de datos MongoDB
-database_name = 'ejemplo_proyecto'  # Cambia esto al nombre de tu base de datos MongoDB
+host = 'localhost'  
+port = 27017  
+database_name = 'ejemplo_proyecto'  
 
 def dbConnection():
     try:
